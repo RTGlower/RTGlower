@@ -1,4 +1,4 @@
-  # Selam! Ben [Ömer](https://github.com/RTGlower) <img src="https://github.com/EmirhanSarac/emirhansarac2/blob/main/mrb.gif" width="25px">
+  # Selam! Ben [Ömer](https://github.com/RTGlower)
 <p align="center">
     
   <a href="https://github.com/RTGlower">
